@@ -2,6 +2,11 @@ html.ext-active {
   position: relative !important;
   top: 40px !important; }
 
+.main_wrapper .search_form_row .search_ico {
+  position: absolute;
+  top:0;
+}
+
 button, input, textarea {
   min-height: initial !important; }
 
